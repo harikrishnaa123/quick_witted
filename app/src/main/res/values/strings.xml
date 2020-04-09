@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">quick_witted</string>
+    <string name="login_name">Email....</string>
+    <string name="login_pass">Password....</string>
+    <string name="login_btn">login</string>
+    <string name="signup_btn">signup</string>
+    <string name="cellno">Cell Number....</string>
+    <string name="licence_no">Licence Number....</string>
+    <string name="amb_no">Ambulance Number....</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="confirm_pass">Confirm password....</string>
+    <string name="heading">quick-witted ambulance</string>
+    <string name="btn_label">Send to nearby hospitals</string>
+    <string name="types_label">Type of Emergency</string>
+    <string name="req_btn">Send request to nearby hospitals</string>
+    <string name="check">Check for Response</string>
+    <string name="resp_heading">Response from hospitals</string>
+
+    <string-array name="emergencies">
+        <item>Serious Injuries</item>
+        <item>Cardiac arrests</item>
+        <item>Stroke</item>
+        <item>Diabetics</item>
+        <item>Unconsciousness</item>
+    </string-array>
+</resources>

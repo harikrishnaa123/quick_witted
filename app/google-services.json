@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "222787587734",
+    "firebase_url": "https://emergency-5d4ce.firebaseio.com",
+    "project_id": "emergency-5d4ce",
+    "storage_bucket": "emergency-5d4ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222787587734:android:0d8b4ebd83b4fada08fcb7",
+        "android_client_info": {
+          "package_name": "com.example.quick_witted"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222787587734-70rqmhgjqdd4hl5bnf8hmbfi13q2n1p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAm3Qr9fdArAilknUIk7BfFrEW-qhO4jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222787587734-70rqmhgjqdd4hl5bnf8hmbfi13q2n1p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
